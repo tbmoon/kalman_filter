@@ -1,2 +1,2 @@
 # kalman_filter
-Kalman filter using python
+"칼만 필터는 어렵지 않아" 예제 코드를 파이썬으로 구현합니다.
