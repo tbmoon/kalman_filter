@@ -9,5 +9,5 @@
 
 
 ## Reference
- * [칼만 필터는 어렵지 않아 with MATLAB Examples (지은이: 김성필 님)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156644415&orderClick=LEA&Kc=)
- * 한빛출판네트워크 (http://www.hanbit.co.kr)
+ * [칼만 필터는 어렵지 않아 with MATLAB Examples (지은이: 김성필 님)] (http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156644415&orderClick=LEA&Kc=)
+ * [한빛출판네트워크] (http://www.hanbit.co.kr)
