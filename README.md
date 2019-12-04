@@ -1,7 +1,7 @@
 # 칼만 필터 (Kalman Filter)
 "[칼만 필터는 어렵지 않아 (저자: 김성필 님)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4956047798)"에서 소개된 예제 코드를 파이썬으로 구현합니다.
 
-* 데이터는 저자 김성필 님의 승인하에 업로드하도록 하겠습니다.
+* 데이터는 저자 김성필 님으로부터 승인을 받은 후 업로드하도록 하겠습니다.
 
 ## 목차 (Contents)
 * Part 01. 재귀 필터 (Recursive Filter)
