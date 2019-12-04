@@ -1,14 +1,15 @@
 # 칼만 필터 (Kalman Filter)
 "[칼만 필터는 어렵지 않아 (저자: 김성필 님)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4956047798)"에서 소개된 예제 코드를 파이썬으로 구현합니다.
 
-* 데이터는 저자 김성필 님께 승인을 해주시면 데이터를 업로드하도록 하겠습니다. 
+* 데이터는 저자 김성필 님의 승인하에 업로드하도록 하겠습니다.
 
 ## 목차 (Contents)
 * Part 01. 재귀 필터 (Recursive Filter)
   + [Chapter 01. 평균 필터 (Average Filter)](./Ch01.AverageFilter)
+  + [Chapter 02. 이동평균 필터 (Moving Average Filter)](./Ch02.MovingAverageFilter)
 
 ## 작업 중... (While at work)
-* Chapter 02. 이동평균 필터 (예정)
+* Chapter 03. 저주파 통과 필터 (예정)
 
 ## 참고 자료 (Reference)
 * [칼만 필터는 어렵지 않아 with MATLAB Examples (저자: 김성필 님)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4956047798)
