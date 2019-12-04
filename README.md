@@ -3,7 +3,7 @@
 
 ## 목차 (Contents)
  * Part 01. 재귀 필터 (Recursive Filter)
-  - [Chapter 01. 평균 필터 (Average Filter)](./Ch01.AverageFilter)
+  ** [Chapter 01. 평균 필터 (Average Filter)](./Ch01.AverageFilter)
 
 ## 작업 중... (While at work)
  - Chapter 02. 이동평균 필터 (예정)
