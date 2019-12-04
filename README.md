@@ -12,7 +12,10 @@
   + [Chapter 03. 저주파 통과 필터 (Low Pass Filter)](./Ch03.LowPassFilter)
 * Part 02. 칼만 필터 기초(Basic Kalman Filter)
   + Chapter 04. 칼만 필터 (Kalman Filter)
-
+  + Chapter 05. 추정 과정 (Estimation)
+  + Chapter 06. 예측 과정 (Prediction)
+  + Chapter 07. 시스템 모델 (System Model)
+* Part 03. 칼만 필터 응용(Application)
 
 ## 작업 중... (While at work)
 * Chapter 08. 초간단 칼만 필터 예제 (예정)
