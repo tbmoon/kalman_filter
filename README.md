@@ -20,7 +20,7 @@
 * Chapter 08. 초간단 칼만 필터 예제 (예정)
 
 ## 데이터 준비 (Prerequisite)
-* 데이터 다운로드를 위한 스크립트 구현 예정
+* 데이터 다운로드를 위한 스크립트 구현 (예정)
 
 ## 참고 자료 (Reference)
 * [칼만 필터는 어렵지 않아 with MATLAB Examples (저자: 김성필 님)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4956047798)
