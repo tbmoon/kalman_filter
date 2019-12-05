@@ -21,7 +21,6 @@
 * 데이터를 공식 자료실에서 다운로드한 후 파일을 옮깁니다.
 
 ```bash
-$ chmod +x download_dataset.csh
 $ ./download_dataset.csh
 ```
 
