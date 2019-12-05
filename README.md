@@ -18,6 +18,8 @@
   + Chapter 08. 초간단 칼만 필터 예제 (예정)
 
 ## 데이터 준비 (Prerequisite)
+* 데이터를 공식 자료실에서 다운로드한 후 파일을 옮깁니다.
+
 ```bash
 $ chmod +x download_dataset.csh
 $ ./download_dataset.csh
