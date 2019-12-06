@@ -3,7 +3,7 @@
 
 * 알고리즘은 동일하지만 간편성, 시각화 등을 위해 책의 예시와 다르게 구현한 부분이 있을 수 있습니다.
 * 데이터는 저작권 보호를 위해 아래 "데이터 준비"에 따라 [공식 자료실](http://www.hanbit.co.kr/support/supplement_list.html)에서 다운로드하셔야 합니다.
-* "Part 02. 칼만 필터 기초"에는 예제 문제가 포함되어 있지 않습니다.
+* "Part 02. 칼만 필터 기초"에는 이론을 다루기 때문에 예제 문제 및 구현 과정이 없습니다.
 
 ![Simple Kalman Filter](./Ch08.SimpleKalmanFilter/png/simple_kalman_filter2.png)
 
