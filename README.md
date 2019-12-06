@@ -16,7 +16,7 @@
   + Chapter 06. 예측 과정 (Prediction)
   + Chapter 07. 시스템 모델 (System Model)
 * Part 03. 칼만 필터 응용 (Application)
-  + Chapter 08. 초간단 칼만 필터 예제 (예정)
+  + [Chapter 08. 초간단 칼만 필터 예제 (Simple Example)](./Ch08.SimpleKalmanFilter) -> 작업 중... (While at work...)
 
 ## 데이터 준비 (Prerequisite)
 * 데이터를 [공식 자료실](http://www.hanbit.co.kr/support/supplement_list.html)에서 다운로드한 후 해당 디렉터리로 옮깁니다.
