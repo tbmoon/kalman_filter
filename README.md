@@ -5,7 +5,7 @@
 * 데이터는 저작권 보호를 위해 아래 "데이터 준비"에 따라 [공식 자료실](http://www.hanbit.co.kr/support/supplement_list.html)에서 다운로드하셔야 합니다.
 * "Part 02. 칼만 필터 기초"에는 예제 문제가 포함되어 있지 않습니다.
 
-![Simple Kalman Filter](./Ch08.SimpleKalmanFilter/png/simple_kalman_filter.png)
+![Simple Kalman Filter](./Ch08.SimpleKalmanFilter/png/simple_kalman_filter2.png)
 
 ## 목차 (Contents)
 * Part 01. 재귀 필터 (Recursive Filter)
