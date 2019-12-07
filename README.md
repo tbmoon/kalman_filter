@@ -20,9 +20,9 @@
 * Part 03. 칼만 필터 응용 (Application)
   + [Chapter 08. 초간단 칼만 필터 예제 (Simple Example)](./Ch08.SimpleKalmanFilter)
   + [Chapter 09. 위치로 속도 추정하기 (Position to Velocity Estimation)](./Ch09.Pos2VelKF)
-  + [Chapter 10. 영상 속의 물체 추적하기 (Object Tracking)](./Ch10.ObjectTracking) -> 작업 중... (While at work...)
+  + [Chapter 10. 영상 속의 물체 추적하기 (Object Tracking)](./Ch10.ObjectTracking)
+  + [Chapter 11. 기울기 자세 측정하기 (Pose Estimation)](./Ch11.PoseEstimation) -> 작업 중... (While at work...)
 <!---
-  + Chapter 11. 기울기 자세 측정하기 (Pose Estimation)
 * Part 04. 칼만 필터와 비선형 시스템 (Kalam Filter and Nonlinear System)
   + Chapter 12. 확장 칼만 필터 (Extended Kalman Filter)
   + Chapter 13. 무향 칼만 필터 (Unscented Kalman Filter)
