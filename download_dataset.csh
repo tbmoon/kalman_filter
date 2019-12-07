@@ -11,6 +11,7 @@ unzip "source.zip"
 set data_dir = "../data"
 mkdir -p ${data_dir}
 mv "2.MovAvgFilter/SonarAlt.mat" ${data_dir}
+mv "10.TrackKalman/Img" ${data_dir}
 
 # Remove tmp directory.
 cd ..
