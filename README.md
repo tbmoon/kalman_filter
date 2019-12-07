@@ -25,10 +25,13 @@
 * Part 04. 칼만 필터와 비선형 시스템 (Kalam Filter and Nonlinear System)
   + Chapter 12. 확장 칼만 필터 (Extended Kalman Filter)
   + Chapter 13. 무향 칼만 필터 (Unscented Kalman Filter)
-%  + Chapter 14. 파틱클 필터 (Particle Filter)
-%* Part 05. 고주파 통과 필터와 상보 필터 (High-pass Filter and Complementary Filter)
-%  + Chapter 15. 고주파 통과 필터 (High-pass Filter)
-%  + Chapter 16. 상보 필터 (Complementary Filter)
+
+<!---
+  + Chapter 14. 파틱클 필터 (Particle Filter)
+* Part 05. 고주파 통과 필터와 상보 필터 (High-pass Filter and Complementary Filter)
+  + Chapter 15. 고주파 통과 필터 (High-pass Filter)
+  + Chapter 16. 상보 필터 (Complementary Filter)
+--->
 
 ## 데이터 준비 (Prerequisite)
 * 아래 스크립트를 사용하여 데이터를 [공식 자료실](http://www.hanbit.co.kr/support/supplement_list.html)에서 다운로드한 후 "data" 디렉터리로 옮깁니다.
