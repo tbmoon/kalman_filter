@@ -26,7 +26,7 @@
   + Chapter 12. 확장 칼만 필터 (Extended Kalman Filter)
   + Chapter 13. 무향 칼만 필터 (Unscented Kalman Filter)
   + Chapter 14. 파틱클 필터 (Particle Filter)
-* Part 05. 고주파 통과 필터와 상보 필터 (High-pass Filter and Complementary Filter)
+%* Part 05. 고주파 통과 필터와 상보 필터 (High-pass Filter and Complementary Filter)
   + Chapter 15. 고주파 통과 필터 (High-pass Filter)
   + Chapter 16. 상보 필터 (Complementary Filter)
 
