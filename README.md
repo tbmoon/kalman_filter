@@ -19,7 +19,8 @@
   + Chapter 07. 시스템 모델 (System Model)
 * Part 03. 칼만 필터 응용 (Application)
   + [Chapter 08. 초간단 칼만 필터 예제 (Simple Example)](./Ch08.SimpleKalmanFilter)
-  + [Chapter 09. 위치로 속도 추정하기 (Position to Velocity Estimation)](./Ch09.Pos2VelKF) -> 작업 중... (While at work...)
+  + [Chapter 09. 위치로 속도 추정하기 (Position to Velocity Estimation)](./Ch09.Pos2VelKF)
+  + [Chapter 10. 영상 속의 물체 추적하기 (Object Tracking)](./Ch10.ObjectTracking) -> 작업 중... (While at work...)
 
 ## 데이터 준비 (Prerequisite)
 * 아래 스크립트를 사용하여 데이터를 [공식 자료실](http://www.hanbit.co.kr/support/supplement_list.html)에서 다운로드한 후 "data" 디렉터리로 옮깁니다.
