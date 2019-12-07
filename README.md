@@ -11,7 +11,7 @@
 * Part 01. 재귀 필터 (Recursive Filter)
   + [Chapter 01. 평균 필터 (Average Filter)](./Ch01.AverageFilter)
   + [Chapter 02. 이동평균 필터 (Moving Average Filter)](./Ch02.MovingAverageFilter)
-  + [Chapter 03. 저주파 통과 필터 (Low Pass Filter)](./Ch03.LowPassFilter)
+  + [Chapter 03. 저주파 통과 필터 (Low-pass Filter)](./Ch03.LowPassFilter)
 * Part 02. 칼만 필터 기초 (Basic Kalman Filter)
   + Chapter 04. 칼만 필터 (Kalman Filter)
   + Chapter 05. 추정 과정 (Estimation)
@@ -25,6 +25,10 @@
 * Part 04. 칼만 필터와 비선형 시스템 (Kalam Filter and Nonlinear System)
   + Chapter 12. 확장 칼만 필터 (Extended Kalman Filter)
   + Chapter 13. 무향 칼만 필터 (Unscented Kalman Filter)
+  + Chapter 14. 파틱클 필터 (Particle Filter)
+* Part 05. 고주파 통과 필터와 상보 필터 (High-pass Filter and Complementary Filter)
+  + Chapter 15. 고주파 통과 필터 (High-pass Filter)
+  + Chapter 16. 상보 필터 (Complementary Filter)
 
 ## 데이터 준비 (Prerequisite)
 * 아래 스크립트를 사용하여 데이터를 [공식 자료실](http://www.hanbit.co.kr/support/supplement_list.html)에서 다운로드한 후 "data" 디렉터리로 옮깁니다.
