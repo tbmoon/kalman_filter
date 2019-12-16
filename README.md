@@ -1,4 +1,4 @@
-# 칼만 필터 (Kalman Filter)
+# 파이썬으로 구현하는 칼만 필터 (Kalman Filter in Python)
 "[칼만 필터는 어렵지 않아 (저자: 김성필 님)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4956047798)"에서 소개된 예제 코드를 파이썬으로 구현합니다.
 
 * 알고리즘은 동일하지만 가독성, 시각화 등을 위해 책의 예시와 다르게 구현한 부분이 있을 수 있습니다.
