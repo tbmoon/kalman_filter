@@ -32,7 +32,7 @@
   + Chapter 16. 상보 필터 (Complementary Filter)
 --->
 
-## 발표 슬라이드 (Slides for Presentation)
+## 발표 슬라이드 (Presentation)
 * [재귀 필터 (Recursive Filter)](./Slides/2020.01.08_kf.pdf)
 
 ## 데이터 준비 (Prerequisite)
