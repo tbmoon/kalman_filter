@@ -32,6 +32,10 @@
   + Chapter 16. 상보 필터 (Complementary Filter)
 --->
 
+## 풀잎 스쿨 10기: 발표 슬라이드 (Slides at 10th Flipped School)
+* [2020.01.08: 재귀 필터 (Recursive Filter)](./Slides/)
+
+
 ## 데이터 준비 (Prerequisite)
 * 아래 스크립트를 사용하여 데이터를 [공식 자료실](http://www.hanbit.co.kr/support/supplement_list.html)에서 다운로드한 후 "data" 디렉터리로 옮깁니다.
 
