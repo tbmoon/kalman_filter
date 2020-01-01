@@ -33,7 +33,7 @@
 --->
 
 ## 풀잎 스쿨 10기: 발표 슬라이드 (Slides at 10th Flipped School)
-* [2020.01.08: 재귀 필터 (Recursive Filter)](./Slides/)
+* [2020년 01월 08일 수요일: 재귀 필터 (Recursive Filter)](./Slides/2020.01.08_kf.pdf)
 
 
 ## 데이터 준비 (Prerequisite)
