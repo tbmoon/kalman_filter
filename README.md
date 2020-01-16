@@ -39,13 +39,15 @@
 ## 데이터 준비 (Prerequisite)
 * 아래 스크립트를 사용하여 데이터를 [공식 자료실](http://www.hanbit.co.kr/support/supplement_list.html)에서 다운로드한 후 "data" 디렉터리로 옮깁니다.
   + tc 쉘 환경:
-  ```bash
-  $ ./download_dataset.csh
-  ```
+    +
+    ```bash
+    $ ./download_dataset.csh
+    ```
   + bash 쉘 환경:
-  ```bash
-  $ ./download_dataset.sh
-  ```
+    +
+    ```bash
+    $ ./download_dataset.sh
+    ```
 
 ## 참고 자료 (Reference)
 * 책 (Book): [칼만 필터는 어렵지 않아 with MATLAB Examples (저자: 김성필 님)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4956047798)
