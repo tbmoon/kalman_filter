@@ -1,5 +1,10 @@
 #!/bin/bash
 
+sudo apt-get install gfortran
+sudo apt-get install libatlas-base-dev
+sudo apt install libjasper-dev
+sudo apt install libqtgui4 python3-pyqt5 libqt4-test
+
 python3 -m venv venv3
 source venv3/bin/activate
 pip install --upgrade --force-reinstall --no-cache-dir jupyter;
