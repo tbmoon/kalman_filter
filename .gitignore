@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 data
 backup
+**/png/
+venv3/
