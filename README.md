@@ -51,5 +51,6 @@
 ## 참고 자료 (Reference)
 * 책 (Book): [칼만 필터는 어렵지 않아 with MATLAB Examples (저자: 김성필 님)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4956047798)
 * 데이터 (Data): [한빛출판네트워크 자료실 (Hanbit)](http://www.hanbit.co.kr/support/supplement_list.html)
+* 발표 자료 모음: [풀잎 스쿨 10기 파이썬으로 구현하는 칼만 필터 Notion](https://www.notion.so/2a75c1d571934fd7b71ee5c4780a6138)
 * OpenCV: [데이터 사이언스 스쿨 (Data Science School)](https://datascienceschool.net/view-notebook/f9f8983941254a34bf0fee42c66c5539)
 * OpenCV: [pyimagesearch](https://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python)
