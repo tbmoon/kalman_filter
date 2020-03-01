@@ -4,6 +4,7 @@
 * 알고리즘은 동일하지만 가독성, 시각화 등을 위해 책의 예시와 다르게 구현한 부분이 있을 수 있습니다.
 * 데이터는 저작권 보호를 위해 아래 "데이터 준비"에 따라 [공식 자료실](http://www.hanbit.co.kr/support/supplement_list.html)에서 다운로드하셔야 합니다.
 * "Part 02. 칼만 필터 기초"에는 이론을 다루기 때문에 예제 문제 및 구현 과정이 없습니다.
+* "Part 05. 고주파 통과 필터와 상보 필터"는 구현을 생략합니다.
 
 ![Simple Kalman Filter](./Ch08.SimpleKalmanFilter/png/simple_kalman_filter2.png)
 
@@ -27,11 +28,9 @@
   + [Chapter 13. 무향 칼만 필터 (Unscented Kalman Filter)](./Ch13.UnscentedKalmanFilter)
   + [Chapter 14. 파틱클 필터 (Particle Filter)](./Ch14.ParticleFilter) -> 작업 중... (While at work...)
 
-<!---
 * Part 05. 고주파 통과 필터와 상보 필터 (High-pass Filter and Complementary Filter)
   + Chapter 15. 고주파 통과 필터 (High-pass Filter)
   + Chapter 16. 상보 필터 (Complementary Filter)
---->
 
 ## 발표 슬라이드 (Presentation)
 * [재귀 필터 (Recursive Filter)](./Slides/2020.01.08_kf.pdf)
