@@ -26,7 +26,7 @@
 * Part 04. 칼만 필터와 비선형 시스템 (Kalam Filter and Nonlinear System)
   + [Chapter 12. 확장 칼만 필터 (Extended Kalman Filter)](./Ch12.ExtendedKalmanFilter)
   + [Chapter 13. 무향 칼만 필터 (Unscented Kalman Filter)](./Ch13.UnscentedKalmanFilter)
-  + [Chapter 14. 파틱클 필터 (Particle Filter)](./Ch14.ParticleFilter) -> 작업 중... (While at work...)
+  + [Chapter 14. 파틱클 필터 (Particle Filter)](./Ch14.ParticleFilter)
 
 * Part 05. 고주파 통과 필터와 상보 필터 (High-pass Filter and Complementary Filter)
   + Chapter 15. 고주파 통과 필터 (High-pass Filter)
