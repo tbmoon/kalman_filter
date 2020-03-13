@@ -6,7 +6,7 @@
 * "Part 02. 칼만 필터 기초"에는 이론을 다루기 때문에 예제 문제 및 구현 과정이 없습니다.
 * "Part 05. 고주파 통과 필터와 상보 필터"는 구현을 생략합니다.
 
-![Simple Kalman Filter](./Ch08.SimpleKalmanFilter/png/simple_kalman_filter2.png)
+![Unscented Kalman Filter](./Ch12.ExtendedKalmanFilter/png/radar_ekf.png)
 
 ## 목차 (Contents)
 * Part 01. 재귀 필터 (Recursive Filter)
